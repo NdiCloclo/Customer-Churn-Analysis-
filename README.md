@@ -91,9 +91,7 @@ The analysis includes:
 
 The visualisations were created primarily using Python, Pandas, Matplotlib and Seaborn, with Power BI used to create a polished business dashboard.
 
----
-
-🔍 Key Findings
+Key Findings
 
 1. Overall churn
 
@@ -149,7 +147,7 @@ Business Opportunities
 2. Encourage suitable month-to-month customers to transition to longer-term contracts.
 3. Increase adoption of relevant security, backup, device-protection and technical-support services while monitoring their effect on retention.
 
-Recommendatione
+Recommendations
 
 Based on the analysis, ABC Communications Ltd should:
 
@@ -168,7 +166,6 @@ Tools & Technologies
 
 - Python
 - Pandas
-- NumPy
 - Matplotlib
 - Seaborn
 - JupyterLab
@@ -186,12 +183,11 @@ This repository contains the main deliverables for the Week 1 business analytics
 - Jupyter Notebook
 - Business Presentation
 - Data visualisations
-- Cleaned dataset
 
-
+ 
 Author
 
-Cloclo Ndi
+AMOUGOU NDI CLAUDIA 
 
 Data Analytics Intern – AnalystLab Africa
 
@@ -211,4 +207,4 @@ Project Contex
 
 This project was completed as part of the AnalystLab Africa Data Analytics Internship Programme – Week 1: Business Analytics Case Study.
 
-The objective of the assignment is to demonstrate the ability to understand a business problem, inspect and analyse a dataset, identify trends and patterns, create professional visualisations, develop business recommendations and present findings professionally.-
+The objective of the assignment is to demonstrate the ability to understand a business problem, inspect and analyse a dataset, identify trends and patterns, create professional visualisations, develop business recommendations and present findings professionally.
