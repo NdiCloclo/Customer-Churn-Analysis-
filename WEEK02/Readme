@@ -1,1 +1,67 @@
-wee
+Week 2 — Business Intelligence & Power BI Dashboard
+
+Project Overview
+
+This project analyzes the Superstore retail dataset using Microsoft Power BI to evaluate sales performance, profitability, customer segments, regional performance, and product performance between 2014 and 2017.
+
+Tools Used
+
+- Microsoft Power BI
+- Power Query
+- DAX
+- GitHub
+
+Dashboard
+
+The Power BI dashboard contains two analytical pages:
+
+Page 1 — Overall Sales Performance
+
+- KPI cards
+- Sales and profit trend
+- Sales by region
+- Profit by region
+- Sales by customer segment
+- Sales by state
+- Interactive Year and Category slicers
+
+Page 2 — Product Performance & Profitability
+
+- Profit by product
+- Profit by subcategory
+- Sales and profit by category
+- Product profitability table
+- Interactive filters
+
+Key KPIs
+
+Metric | Result 
+
+Total Sales | $2.0M 
+Total Profit | $286K 
+Total Orders | ~5K 
+Average Sales | $230 
+Profit Margin | 12.5% 
+
+Key Insights
+
+1. Sales increased significantly between 2014 and 2017.
+2. Sales generally strengthened between August and December.
+3. The West region was consistently one of the strongest-performing regions.
+4. Technology was the most consistently strong category.
+5. Tables and Bookcases presented profitability concerns due to recurring negative margins.
+
+Recommendations
+
+- Review the profitability of Tables and Bookcases.
+- Diversify regional revenue.
+- Protect high-performing markets while expanding weaker regions.
+- Optimize inventory and marketing around seasonal demand.
+- Prioritize consistently profitable products.
+- Evaluate discounts based on both sales performance and profitability.
+
+Deliverables
+
+- Business Intelligence Overview Report
+- Executive Summary Report
+- Dashboard Export
